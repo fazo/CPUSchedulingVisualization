@@ -2,6 +2,6 @@
 
 View online:
 
-https://jsfiddle.net/jzokntkq/16/
+Latest version - http://codepen.io/faso/pen/zqWGQW
 
-http://codepen.io/faso/pen/zqWGQW
+Outdated - https://jsfiddle.net/jzokntkq/16/
